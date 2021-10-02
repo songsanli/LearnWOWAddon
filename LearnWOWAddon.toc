@@ -1,0 +1,10 @@
+# 以 `# ` 开头的行表示注释。
+# 以 `## ` 开头的行表示一个 .toc tag，用于表示这个 addon 的 metadata。
+## Interface
+## Title
+## Notes
+## Author: Samuel Song
+# 上面的 tag 都属于官方 tag
+
+# below lines are file names, which will be loaded during load time
+LearnWOWAddon.lua
